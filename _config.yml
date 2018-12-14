@@ -2,8 +2,8 @@
 title: >
 author: Sylvain White
 description: > # Meta description of Homepage
-baseurl: "/fh-web-site-bilingual/" # the subpath of your site, e.g. /blog
-url: "https://sylvainwhite.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/website/" # the subpath of your site, e.g. /blog
+url: "https://francinehemmings.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
