@@ -19,7 +19,7 @@ language: en-US
     <tr>
         <td>Children (less than 12)</td>
         <td>60 minutes</td>
-        <td>75$ (taxes included)</td>
+        <td>70$ (taxes included)</td>
     </tr>
 </table>
 An appointment can be cancelled up to 48 hours before the scheduled time.

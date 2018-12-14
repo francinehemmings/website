@@ -19,7 +19,7 @@ language: fr-CA
     <tr>
         <td>Enfant (12 ans et moins)</td>
         <td>60 minutes</td>
-        <td>75$ (taxes incluses)</td>
+        <td>70$ (taxes incluses)</td>
     </tr>
 </table>
 Un rendez-vous peut être annulé sans frais 48 heures ou plus avant l'heure prévu.
