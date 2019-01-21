@@ -16,15 +16,9 @@ Her conclusion? Food, the outdoors and peace of mind are essential to a healthy
 balance. The Osteopathy method has been part of her life journey in search of
 better physical health and greater well-being.
 
-Osteopathy is an approach to healing that is manual, gentle and powerful. It 
-accompanies the body in its quest to find its own means of self-healing. Francine
-embarked on the rigorous learning that this 7 year training program requires in order to offer today with pleasure the benefits of a medicine more than a century 
-old and proven in its effectiveness.
+Osteopathy is an approach to healing that is hands-on, gentle and powerful. It 
+accompanies the body in its quest to find its own means of self-healing. Francine embarked on Osteopathy's rigorous 7-year training program in order to provide the benefits of a technique that has proven its effectiveness for more than a century.
 
-She has written a memoir on how to achieve an optimal state of mind in her 
-professional life and especially in her role as an advocate for healing and 
-physical autonomy. The great osteopath founders, contemporary and current, have 
-inspired her throughout her career.
+Her training culminated with a written memoir on how to achieve an optimal state of mind which is the basis for her role as advocate for healing and physical autonomy. The great osteopath founders, contemporary and current, have inspired her throughout her career.
 
-Always attracted to nature, it is in Estrie that she found her nest. She currently
-practices her profession in the village of Mansonville
+Always attracted to nature, she now makes her home in Quebec's beautiful Eastern Townships. She currently practices her profession in the village of Mansonville.

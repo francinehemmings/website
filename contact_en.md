@@ -31,6 +31,6 @@ J0E-1XO <br/>
     </tr>
 </table>
 
-You can mail me at [email](mailto:{{site.email}}) or leave me a message
+You can send me an [email](mailto:{{site.email}}) or leave me a message
 {% include form.html %}
 {% include modal.html %}
