@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Who is Francine Hemmings?"
-permalink: /whoIsFrancine_en/
+permalink: en-US/whoIsFrancine/
 language: en-US
 ---
 <h2>Profile of Francine Hemmings, with a diploma in osteopathy</h2>

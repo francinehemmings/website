@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tarifs"
-permalink: /rates_fr/
+permalink: fr-CA/rates/
 language: fr-CA
 ---
 <h1>Tarifs et politique d'annulation</h1>

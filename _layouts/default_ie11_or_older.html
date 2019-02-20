@@ -16,8 +16,6 @@
       <!-- End Google Tag Manager (noscript) -->
 
     {% endif %}
-
-    {% include header.html %}
    
    <div>
       <img style="padding-top: 20px;" src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.hero_img[page.language] }}"/>
@@ -28,20 +26,17 @@
     </div>
 
     <main class="site__content">
-      <section class="blog">
+
         <div class="container">
-          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-
-            {% for post in site.categories[page.language] %}
-              {% include card.html %}
-            {% endfor %}
-
+          <div class="page-content">
+  
             {{ content }}
-
+  
           </div>
         </div>
-      </section>
-    </main>
+  
+      </main>
+
     {% include footer.html %}
   </body>
 </html>

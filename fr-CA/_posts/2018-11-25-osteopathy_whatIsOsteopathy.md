@@ -2,6 +2,7 @@
 layout: post
 title: "Qu'est-ce que l'ostéopathie?"
 featured-img: osteopathy_whatIsOsteopathy
+permalink: fr-CA/osteopathy_whatIsOsteopathy
 language: fr-CA
 ---
   L’ostéopathie au service de santé signifie que le rôle du thérapeute est d’accompagner le processus naturel d’autoguérison inhérent au corps du patient afin de l'aider à rétablir sa santé, à augmenter sa vitalité et à maintenir son état de bien-être. 

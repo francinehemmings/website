@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Qui est Francine?"
-permalink: /whoIsFrancine_fr/
+permalink: fr-CA/whoIsFrancine/
 language: fr-CA
 ---
 <h2>Profil de Francine Hemmings, diplomé en osthéopathie</h2>

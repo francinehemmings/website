@@ -2,6 +2,7 @@
 layout: post
 title: "Quels signes incitent à consulter?"
 featured-img: osteopathy_symptomsToConsult
+permalink: fr-CA/osteopathy_symptomsToConsult
 language: fr-CA
 ---
 - **Douleurs et inflammation articulaires** : cou, dos et  membres

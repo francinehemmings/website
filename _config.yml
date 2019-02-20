@@ -16,19 +16,19 @@ home_links: # Navigation links for languages
   fr-CA:
     {name: "Français", link: "/"} 
   en-US:
-    {name: "English", link: "/index_en"} 
+    {name: "English", link: "en-US/index"} 
 
 navigation_links: # Navigation links
   fr-CA:
     - {name: "Accueil", link: "/"}
-    - {name: "Qui est Francine?", link: "/whoIsFrancine_fr"}
-    - {name: "Tarifs", link: "/rates_fr"}
-    - {name: "Contact", link: "/contact_fr"}   
+    - {name: "Qui est Francine?", link: "fr-CA/whoIsFrancine"}
+    - {name: "Tarifs", link: "fr-CA/rates"}
+    - {name: "Contact", link: "fr-CA/contact"}   
   en-US:
-    - {name: "Home", link: "/index_en"}
-    - {name: "Who is Francine?", link: "/whoIsFrancine_en"}
-    - {name: "Rates", link: "/rates_en"}
-    - {name: "Contact", link: "/contact_en"}
+    - {name: "Home", link: "en-US/index"}
+    - {name: "Who is Francine?", link: "en-US/whoIsFrancine"}
+    - {name: "Rates", link: "en-US/rates"}
+    - {name: "Contact", link: "en-US/contact"}
 
 translation:
   fr-CA:

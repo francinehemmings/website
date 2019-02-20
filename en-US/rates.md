@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Rates"
-permalink: /rates_en/
+permalink: en-US/rates/
 language: en-US
 ---
 <h1>Rates and cancellation</h1>
