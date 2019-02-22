@@ -1,12 +1,7 @@
----
-layout: default
-language: fr-CA
----
+<html>
 <script>
-    /**
-     * Detect IE. If it is IE11 or older, redirect to a static contact
-     * page since the jekyll sleek template doesn't work on IE11 
-     */
+    // Detect IE. If it is IE11 or older, redirect to a static contact
+    // page since the jekyll sleek template doesn't work on IE11 
     function detectIE() {
         var ua = window.navigator.userAgent;
 
@@ -42,4 +37,10 @@ language: fr-CA
     if(detectIE()) {
         window.location = "index_ie11_or_older/";
     }
+
+    // Not IE, go to normal site
+    window.location = "fr-CA/index";
 </script>
+<body>
+</body>
+</html>

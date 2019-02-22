@@ -14,13 +14,13 @@ social:
 # THEME SETTINGS
 home_links: # Navigation links for languages
   fr-CA:
-    {name: "Français", link: "/"} 
+    {name: "Français", link: "fr-CA/index"} 
   en-US:
     {name: "English", link: "en-US/index"} 
 
 navigation_links: # Navigation links
   fr-CA:
-    - {name: "Accueil", link: "/"}
+    - {name: "Accueil", link: "fr-CA/index"}
     - {name: "Qui est Francine?", link: "fr-CA/whoIsFrancine"}
     - {name: "Tarifs", link: "fr-CA/rates"}
     - {name: "Contact", link: "fr-CA/contact"}   
