@@ -30,7 +30,7 @@
 
   </style>
   <link href="{{ '/font-awesome-4.1.0/css/font-awesome.min.css' | relative_url }}" rel="stylesheet" type="text/css">
-  <link rel="preload" href="{{ '/assets/css/main.css' | relative_url }}" as="style" onload="this.rel='stylesheet'">
+  <link rel="preload" href="{{ '/assets/css/main.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}"></noscript>
   <script type="text/javascript">
    {% include loadCss.js %}
