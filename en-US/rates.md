@@ -14,12 +14,12 @@ language: en-US
     <tr>
         <td>Adult (12 and over)</td>
         <td>60 to 75 minutes</td>
-        <td>100$ (taxes included)</td>
+        <td>110$ (10$ fees for new client, taxes included)</td>
     </tr>
     <tr>
         <td>Children (less than 12)</td>
         <td>45 to 60 minutes</td>
-        <td>90$ (taxes included)</td>
+        <td>100$ (10$ fees for new client, taxes included)</td>
     </tr>
 </table>
 An appointment can be cancelled up to 48 hours before the scheduled time.
