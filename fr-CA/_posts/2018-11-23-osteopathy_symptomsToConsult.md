@@ -7,7 +7,7 @@ language: fr-CA
 ---
 - **Douleurs et inflammation articulaires** : cou, dos et  membres
 
-- **Affections organiques** : respiratoire, digestive, circulatoire, urinaire, sexuelle et gynécologique.
+- **Affections organiques** : respiratoire, digestive, circulatoire, urinaire, gynécologique.
 
 - **Affections nerveuses** : fatigue, insomnie, vertiges, dépression, migraines, concentration, etc.
 
