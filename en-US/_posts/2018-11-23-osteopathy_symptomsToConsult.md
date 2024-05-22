@@ -8,7 +8,6 @@ language: en-US
 - **Joint pain and inflammation**: neck, back, hips, knees, etc.
 
 - **Visceral issues**:  Respiratory, digestive, circulatory, urinary, gynecological 
-and sexual
 
 - **Nerve issues**: Fatigue, insomnia, vertigo, depression, migraines, focus, etc.
 
