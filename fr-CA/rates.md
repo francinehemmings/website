@@ -19,7 +19,7 @@ language: fr-CA
     <tr>
         <td>Enfant (12 ans et moins)</td>
         <td>45 à 60 minutes</td>
-        <td>95,67$ (nouveau client, frais de 10$)</td>
+        <td>95,67$ plus taxes (nouveau client, frais de 10$)</td>
     </tr>
 </table>
 Un rendez-vous peut être annulé sans frais 48 heures ou plus avant l'heure prévu.
