@@ -13,15 +13,14 @@ language: fr-CA
     </tr>
     <tr>
         <td>Adulte (plus de 12 ans)</td>
-        <td>60 à 75 minutes</td>
-        <td>110$ (frais de 10$ nouveau client, taxes incluses) </td>
+        <td>75 à 90 minutes</td>
+        <td>121,77$ plus taxes (nouveau client,frais de 10$) </td>
     </tr>
     <tr>
         <td>Enfant (12 ans et moins)</td>
         <td>45 à 60 minutes</td>
-        <td>100$ (frais de 10$ nouveau client, taxes incluses)</td>
+        <td>95,67$ (nouveau client, frais de 10$)</td>
     </tr>
 </table>
 Un rendez-vous peut être annulé sans frais 48 heures ou plus avant l'heure prévu.
-Sinon, il y a un frais de 50$ si le rendez-vous est annulé à 48 heures ou moins 
-de l'heure prévu.
+Passé ce délai, il y a un frais de 50$.
