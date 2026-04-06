@@ -1,26 +1,27 @@
 ---
 layout: page
-title: "Rates"
-permalink: en-US/rates/
-language: en-US
+title: "Tarifs"
+permalink: fr-CA/rates/
+language: fr-CA
 ---
-<h1>Rates and cancellation</h1>
+<h1>Tarifs et politique d'annulation</h1>
 <table>
     <tr>
         <th>Consultation</th>
-        <th>Duration</th>
-        <th>Price</th>
+        <th>Durée</th>
+        <th>Prix</th>
     </tr>
     <tr>
-        <td>Adult (12 and over)</td>
-        <td>75 to 90 minutes</td>
-        <td>121,77$ plus taxes (10$ fees for new client )</td>
+        <td>Adulte (plus de 12 ans)</td>
+        <td>75 à 90 minutes</td>
+        <td>121,77$ plus taxes (nouveau client,frais de 10$) </td>
     </tr>
     <tr>
-        <td>Children (less than 12)</td>
-        <td>45 to 60 minutes</td>
-        <td>95,67$ plus taxes (10$ fees for new client )</td>
+        <td>Enfant (12 ans et moins)</td>
+        <td>45 à 60 minutes</td>
+        <td>95,67$ plus taxes (nouveau client, frais de 10$)</td>
     </tr>
 </table>
-An appointment can be cancelled up to 48 hours before the scheduled time.
-A 50% appointment fee will apply if the appointment is cancelled within 48 hours  
+Un rendez-vous peut être annulé sans frais 48 heures ou plus avant l'heure prévu.
+Des frais de 50% s'appliquent aux annulations effectuées moins de 48 heures à l'avance.
+
