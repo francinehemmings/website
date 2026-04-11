@@ -23,4 +23,5 @@ language: fr-CA
     </tr>
 </table>
 Un rendez-vous peut être annulé sans frais 48 heures ou plus avant l'heure prévu.
-Passé ce délai, il y a un frais de 50$.
+Des frais de 50% s'appliquent aux annulations effectuées moins de 48 heures à l'avance.
+
