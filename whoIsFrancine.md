@@ -15,4 +15,4 @@ L'osthéopathie est une approche de la guérison douce et puissante. Elle accomp
 
 Elle a d'ailleurs écrit un mémoire sur les moyens d'atteindre un état d'esprit optimal dans sa vie professionnelle et surtout dans son rôle d'intervenante vers la guérison et l'autonomie physique. Les grands ostéopathes fondateurs, contemporains et actuels, l'ont grandement inspiré tout au long de son parcours.
 
-Depuis toujours attirée vers la nature, c'est en Estrie qu'elle a trouvé son nid. Elle pratique actuellement sa profession dans le village de Suttonéééé.
+Depuis toujours attirée vers la nature, c'est en Estrie qu'elle a trouvé son nid. Elle pratique actuellement sa profession dans le village de Sutton.
