@@ -23,4 +23,4 @@ language: en-US
     </tr>
 </table>
 An appointment can be cancelled up to 48 hours before the scheduled time.
-There is a 50$ fee if an appointment is cancelled within 48 hours.  
+A 50% appointment fee will apply if the appointment is cancelled within 48 hours  
